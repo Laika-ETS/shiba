@@ -1,0 +1,17 @@
+<package>
+  <description brief="shiba_teleop_demo">
+
+     shiba_teleop_demo
+
+  </description>
+  <author>capra</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/shiba_teleop_demo</url>
+  <depend package="roscpp"/>
+  <depend package="turtlesim"/>
+  <depend package="joy"/>
+
+</package>
+
+
